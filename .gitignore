@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+params.data-00000-of-00001
+params.index
+checkpoint
+.vscode/settings.json
